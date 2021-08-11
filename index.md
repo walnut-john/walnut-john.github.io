@@ -1,4 +1,4 @@
 # This is a website
 Thanks for being here. 
 
-Click here[projects/bayes_project.html]
+Click [here](projects/bayes_project.html)
