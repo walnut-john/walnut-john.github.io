@@ -1,4 +1,4 @@
-# This is a website
-Thanks for being here. 
+# This is a personal website in progress
 
-Click [here](projects/bayes_project.html)
+Thanks for being here. I'm working on posting projects and getting the site operational.
+
